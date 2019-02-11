@@ -19,11 +19,10 @@ public class Activity extends AppCompatActivity {
         setContentView(R.layout.activity_inicio);
     }
 
-public void buttonVerifica (View view){
+    public void buttonVerifica (View view){
+    Intent verificacao = new Intent(getApplicationContext(), Router.class);
+    startActivity(verificacao);
 
-        Intent verificacao = new Intent(getApplicationContext(), Router.class);
-        startActivity(verificacao);
-
-        }
+    }
 }
 

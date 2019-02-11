@@ -18,9 +18,6 @@ import com.ibm.hanryteixeira.projetotreinamento.R;
 
 //Presenter organiza o modelo no Layout
 
-
-
-
 public class Presenter extends AppCompatActivity implements PresenterInput, WorkerInput {
 
     private RecyclerView recyclerView;
