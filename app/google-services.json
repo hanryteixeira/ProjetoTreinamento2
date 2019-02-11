@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283856335178",
+    "firebase_url": "https://filmes-6d1ec.firebaseio.com",
+    "project_id": "filmes-6d1ec",
+    "storage_bucket": "filmes-6d1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283856335178:android:945694149c3411a0",
+        "android_client_info": {
+          "package_name": "com.ibm.hanryteixeira.projetotreinamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283856335178-4d4s8ira6t58rb39vmins8mmmko2ctlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibm.hanryteixeira.projetotreinamento",
+            "certificate_hash": "1cc8453dcc9138d8ef90e20fdb9be0284980ebf4"
+          }
+        },
+        {
+          "client_id": "283856335178-t8muurn0jsl5mdjcpd9avu11fub2r2mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPK5_MQCI1wlg1sa1-13EWCvwlWXj--q4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283856335178-t8muurn0jsl5mdjcpd9avu11fub2r2mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
